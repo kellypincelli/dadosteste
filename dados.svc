@@ -1,0 +1,83 @@
+<service xmlns="http://www.w3.org/2007/app" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:m="http://docs.oasis-open.org/odata/ns/metadata" xml:base="https://odatasampleservices.azurewebsites.net/V4/Northwind/Northwind.svc/" m:context="https://odatasampleservices.azurewebsites.net/V4/Northwind/Northwind.svc/$metadata">
+<workspace>
+<atom:title type="text">Default</atom:title>
+<collection href="Categories">
+<atom:title type="text">Categories</atom:title>
+</collection>
+<collection href="CustomerDemographics">
+<atom:title type="text">CustomerDemographics</atom:title>
+</collection>
+<collection href="Customers">
+<atom:title type="text">Customers</atom:title>
+</collection>
+<collection href="Employees">
+<atom:title type="text">Employees</atom:title>
+</collection>
+<collection href="Order_Details">
+<atom:title type="text">Order_Details</atom:title>
+</collection>
+<collection href="Orders">
+<atom:title type="text">Orders</atom:title>
+</collection>
+<collection href="Products">
+<atom:title type="text">Products</atom:title>
+</collection>
+<collection href="Regions">
+<atom:title type="text">Regions</atom:title>
+</collection>
+<collection href="Shippers">
+<atom:title type="text">Shippers</atom:title>
+</collection>
+<collection href="Suppliers">
+<atom:title type="text">Suppliers</atom:title>
+</collection>
+<collection href="Territories">
+<atom:title type="text">Territories</atom:title>
+</collection>
+<collection href="Alphabetical_list_of_products">
+<atom:title type="text">Alphabetical_list_of_products</atom:title>
+</collection>
+<collection href="Category_Sales_for_1997">
+<atom:title type="text">Category_Sales_for_1997</atom:title>
+</collection>
+<collection href="Current_Product_Lists">
+<atom:title type="text">Current_Product_Lists</atom:title>
+</collection>
+<collection href="Customer_and_Suppliers_by_Cities">
+<atom:title type="text">Customer_and_Suppliers_by_Cities</atom:title>
+</collection>
+<collection href="Invoices">
+<atom:title type="text">Invoices</atom:title>
+</collection>
+<collection href="Order_Details_Extendeds">
+<atom:title type="text">Order_Details_Extendeds</atom:title>
+</collection>
+<collection href="Order_Subtotals">
+<atom:title type="text">Order_Subtotals</atom:title>
+</collection>
+<collection href="Orders_Qries">
+<atom:title type="text">Orders_Qries</atom:title>
+</collection>
+<collection href="Product_Sales_for_1997">
+<atom:title type="text">Product_Sales_for_1997</atom:title>
+</collection>
+<collection href="Products_Above_Average_Prices">
+<atom:title type="text">Products_Above_Average_Prices</atom:title>
+</collection>
+<collection href="Products_by_Categories">
+<atom:title type="text">Products_by_Categories</atom:title>
+</collection>
+<collection href="Sales_by_Categories">
+<atom:title type="text">Sales_by_Categories</atom:title>
+</collection>
+<collection href="Sales_Totals_by_Amounts">
+<atom:title type="text">Sales_Totals_by_Amounts</atom:title>
+</collection>
+<collection href="Summary_of_Sales_by_Quarters">
+<atom:title type="text">Summary_of_Sales_by_Quarters</atom:title>
+</collection>
+<collection href="Summary_of_Sales_by_Years">
+<atom:title type="text">Summary_of_Sales_by_Years</atom:title>
+</collection>
+</workspace>
+</service>
